@@ -1,0 +1,14 @@
+[
+    {
+        "nev":"Péter",
+        "kor": 25,
+        "magassag": 180,
+        "ehesE": false
+    },
+    {
+        "nev":"Róbert",
+        "kor": 45,
+        "magassag": 190,
+        "ehesE": true
+    }
+]

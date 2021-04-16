@@ -43,7 +43,7 @@ promise
 })
 .catch((error) => console.log(error.message));
 */
-
+/*
 let promise = new Promise((resolve, reject) => {
     resolve(1);
 });
@@ -69,4 +69,5 @@ promise
 })
 .catch((error) => console.log(error.message));
 
-console.log('Valami kiírása!')
+console.log('Valami kiírása!');
+*/
